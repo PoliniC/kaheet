@@ -31,7 +31,7 @@ function a0_0x1834() {
     var _0x19ba6b, _0x2050c2, _0x76c081, _0x207b72, _0x948469, _0x2b24c4 = -0x1,
         _0x21e190 = function() {
             var _0x12f694 = a0_0xac74,
-                _0x28d73d = prompt('\x0a👋\x20Hola,\x20' + (JSON['parse'](localStorage['getItem'](_0x12f694(0x101)) || '')[_0x12f694(0xf0)] || _0x12f694(0xee)) + '!\x0a1️⃣ Introduce el Quiz ID.\x0a2️⃣ Ejemplo: https://play.kahoot.it/v2/lobby?quizId=\x20[AQUI!]\x0a3️⃣\x20\Recuerda que el Quiz ID no es el codigo PIN\x20(e.g.\x20638592)\x0a4️⃣\x20Presiona F5 para salir\x0a5️⃣ Recuerda que el Quiz ID solo aparecerá en la pantalla de tu profesor');
+                _0x28d73d = prompt('\x0a👋\x20Hola,\x20' + (JSON['parse'](localStorage['getItem'](_0x12f694(0x101)) || '')[_0x12f694(0xf0)] || _0x12f694(0xee)) + '!\x0a1️⃣ Introduce el Quiz ID.\x0a2️⃣ Ejemplo: https://play.kahoot.it/v2/lobby?quizId=\x20[AQUI!].\x0a3️⃣ Recuerda que el Quiz ID no es el codigo PIN.\x0a4️⃣ Recuerda que el Quiz ID solo aparecerá en la pantalla de tu profesor.\x0a5️⃣ Presiona F5 para salir.');
             if (null == _0x28d73d) throw _0x12f694(0x12c);
             if (new RegExp(/^\d+$/g)['test'](_0x28d73d[_0x12f694(0xf3)](/\s/g, ''))) throw _0x12f694(0x10f);
             return _0x28d73d;
