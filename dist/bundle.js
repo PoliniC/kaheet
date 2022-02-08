@@ -31,7 +31,7 @@ function a0_0x1834() {
     var _0x19ba6b, _0x2050c2, _0x76c081, _0x207b72, _0x948469, _0x2b24c4 = -0x1,
         _0x21e190 = function() {
             var _0x12f694 = a0_0xac74,
-                _0x28d73d = prompt('\x0a👋\x20Hola,\x20' + (JSON['parse'](localStorage['getItem'](_0x12f694(0x101)) || '')[_0x12f694(0xf0)] || _0x12f694(0xee)) + '!\x0a📜\Introduce\x20la\x20ultima\x20parte\x20del\x20link,\x20puedes\x27encontrarlo\x20en\x20la\x20pantalla\x20de\x27tu\x20profesor.\x0a❓\x20=>\x20Ejemplo:\x0a🔗\x20https://play.kahoot.it/v2/lobby?quizId=\x20[AQUI!]\x0a\x0a⚠️\x20\x20Recuerda\x20que\x20el\x20quizID\x20no\x20es\x20el\x20el\x20codigo\x20PIN\x20(e.g.\x20638592)\x0a❌\x20Para\x20salir\x20presiona\x20F5\x0a');
+                _0x28d73d = prompt('\x0a👋\x20Hola,\x20' + (JSON['parse'](localStorage['getItem'](_0x12f694(0x101)) || '')[_0x12f694(0xf0)] || _0x12f694(0xee)) + '!\x0a📜\Introduce\x20la\x20ultima\x20parte\x20del\x20link,\x20puedes\x20encontrarlo\x20en\x20la\x20pantalla\x20de\x20tu\x20profesor.\x0a❓\x20=>\x20Ejemplo:\x0a🔗\x20https://play.kahoot.it/v2/lobby?quizId=\x20[AQUI!]\x0a\x0a⚠️\x20\x20Recuerda\x20que\x20el\x20quizID\x20no\x20es\x20el\x20el\x20codigo\x20PIN\x20(ej.\x20638592)\x0a❌\x20Presiona F5 para salir\x0a');
             if (null == _0x28d73d) throw _0x12f694(0x12c);
             if (new RegExp(/^\d+$/g)['test'](_0x28d73d[_0x12f694(0xf3)](/\s/g, ''))) throw _0x12f694(0x10f);
             return _0x28d73d;
